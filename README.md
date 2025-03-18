@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @a00331111
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @a00331111.
+- 👀 I’m interested in PC DIY Linux 3DPrint ESP network.
+- 🌱 I’m currently learning Modern Embedded Systems Programming.
+- 💞️ I’m looking to collaborate on AMD or Broadcom.
+- 📫 How to reach me piaotian748@gmail.com
 
 <!---
 a00331111/a00331111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
